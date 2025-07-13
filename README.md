@@ -2,7 +2,6 @@
 
 Welcome to my personal developer portfolio website, built with **Next.js**, **Tailwind CSS**, **Framer Motion**, and **TypeScript**. This portfolio highlights my work as a **full-stack developer**, showcasing projects, skills, experience, and contact details — ideal for freelancing and job opportunities.
 
-Live Demo 👉 [Visit My Portfolio](https://sakshi-portfolio.vercel.app/)  
 Resume 👉 [View Resume](https://drive.google.com/file/d/1bc6Bt2hOD7CdB6Pr0D2qYXMveZLJzxEy/view?usp=drive_link)
 
 ---
