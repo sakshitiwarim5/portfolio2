@@ -20,17 +20,17 @@ const About = () => {
       <SectionHeading>About Me</SectionHeading>
 
       <p className="mb-3">
-        I'm <b className="font-medium">Sakshi Tiwari</b>, a Computer Science graduate and full-stack developer focused on building
+        I&apos;m <b className="font-medium">Sakshi Tiwari</b>, a Computer Science graduate and full-stack developer focused on building
         impactful web applications using <b className="font-medium">React.js, Node.js, FastAPI, and MongoDB</b>.
       </p>
 
       <p className="mb-3">
-        I'm skilled in <b className="font-medium">Python, C++, TypeScript, SQLAlchemy</b> and tools like <b className="font-medium">Git, Postman, and Azure AI</b>. 
-        I’ve built projects like a Job Recommendation System, a PDF Q&A app, and an Employee Management System.
+        I&apos;m skilled in <b className="font-medium">Python, C++, TypeScript, SQLAlchemy</b> and tools like <b className="font-medium">Git, Postman, and Azure AI</b>. 
+        I&apos;ve built projects like a Job Recommendation System, a PDF Q&amp;A app, and an Employee Management System.
       </p>
 
       <p>
-        I'm always exploring new technologies and currently seeking a <b className="font-medium">full-time role</b> where I can contribute and grow. 
+        I&apos;m always exploring new technologies and currently seeking a <b className="font-medium">full-time role</b> where I can contribute and grow. 
         Outside coding, I enjoy yoga, learning, and building creative ideas.
       </p>
     </motion.section>
